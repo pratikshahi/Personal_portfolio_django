@@ -1,2 +1,2 @@
 # Personal_portfolio_django  
-http://pratikshahi.pythonanywhere.com/
+https://pratikshahi.pythonanywhere.com/
